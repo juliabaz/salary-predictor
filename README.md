@@ -1,5 +1,5 @@
-# salary-predictor
-Using Machine Learning models to predict salary ranges.
+# Predictive Modelling for Salary Estimation
+The goal of this project is to build Machine Learning models that produce salary range estimates for jobs in the field of Software Engineering and Computer science based on current job offers found on the popular job board site Indeed.
 
 ## Abstract
 In this project, we built Machine Learning models that
